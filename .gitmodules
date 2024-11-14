@@ -6,3 +6,7 @@
 	path = docs/plugins/textbox
 	url = git@alpha:pa-0/lintalist-textbox
 	branch = dev
+[submodule "bundles/official"]
+	path = bundles/official
+	url = git@alpha:pa-0/lintalist-bundles
+	branch = main
